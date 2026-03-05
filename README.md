@@ -23,7 +23,7 @@ From Source
 ```cmd
 git clone https://github.com/Eth3rna1/construct.git
 cd construct
-rustc construct.rs
+rustc main.rs -o construct
 ```
 
 ## Usage
