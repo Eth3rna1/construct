@@ -1,7 +1,7 @@
 # construct
 
 ## About
-construct is a lightweight CLI productivity tool written in Rust that allows you **to create complex file and directory trees with a single command**.
+`construct` is a lightweight CLI productivity tool written in Rust that allows you **to create complex file and directory trees with a single command**.
 
 Instead of manually creating folders and files step-by-step, `construct` lets you describe the structure using a concise query syntax.
 
